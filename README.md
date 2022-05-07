@@ -1,9 +1,12 @@
-- Hi, I’m Wesley Blake.
-- I am interested in technology in general and would like to learn more about everything.
-- I’m currently learning Python with DataCamp, NetworkChucks Python course, and practice.
-- What I have already done so far:
--   I have used Linux for over 2 years; currently using ArcoLinux.
--   I have built a few simple things in Python.
+# Hi, I’m Wesley Blake (Wes or Blake)
+## Professionally, I work in Human Resources
+### interests:
+- Technology in general
+- Linux Enthusiast
+  - ArcoLinux currenlty
+### Currently learning
+- Learning Linux
+- Python with Datacamp and W3schools
 
 <!---
 Wblake95/Wblake95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
