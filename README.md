@@ -1,5 +1,5 @@
 # Hi, i’m Wesley Blake (Wes or Blake)
-## Professionally, i work in Human Resources
+## Professional work: Human Resources
 ### interests:
 - Technology in general
 - Linux Enthusiast
