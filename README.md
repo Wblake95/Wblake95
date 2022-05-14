@@ -1,10 +1,10 @@
-# Hi, I’m Wesley Blake (Wes or Blake)
-## Professionally, I work in Human Resources
+# Hi, i’m Wesley Blake (Wes or Blake)
+## Professionally, i work in Human Resources
 ### interests:
 - Technology in general
 - Linux Enthusiast
   - ArcoLinux currenlty
-### Currently learning
+### Learning
 - Learning Linux
 - Python with Datacamp and W3schools
 
