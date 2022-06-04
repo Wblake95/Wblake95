@@ -3,10 +3,9 @@
 ### interests:
 - Technology in general
 - Linux Enthusiast
-  - ArcoLinux currenlty
+  - Manjaro(Gnome) currenlty
 ### Learning
-- Learning Linux
-- Python with Datacamp and W3schools
+- Python with W3schools
 
 <!---
 Wblake95/Wblake95 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
