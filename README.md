@@ -1,10 +1,10 @@
 # Hi, i’m Wesley Blake (Wes or Blake)
 ## Professional work: Human Resources
 ### interests:
-- Technology in general
-- Linux Enthusiast
-  - Manjaro(Gnome) currenlty
-  - ArcoLinux(XFCE) dualboot for learning
+- Language: Python
+  - Data Science and Applications
+- Linux: ArcoLinux
+- Text editor: Vim
 ### [Learning](https://github.com/Wblake95/Python_Learning)
 - [W3schools](https://www.w3schools.com/python/default.asp) (complete)
 - [Python projects](https://www.freecodecamp.org/news/python-projects-for-beginners/)
