@@ -1,8 +1,7 @@
-# Hi, i’m Wesley Blake (Wes or Blake)
+# Hi, i’m Wesley (Wes or Blake) Blake 
 ## Professional work: Human Resources
 ### interests:
-- Language: Python
-  - Data Science and Applications
+- Data Science and Applications
 - Linux: ArcoLinux
 - Text editor: Vim
 ### [Learning](https://github.com/Wblake95/Python_Learning)
