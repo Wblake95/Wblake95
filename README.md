@@ -2,8 +2,10 @@
 ## Professional work: Human Resources.
 
 ### Currently working with python.
-I have made a few projects you can look at below. None complex but I used several different modules to accomplish my goals
+I have made a few projects you can look at below. None complex, but I used several different modules to accomplish my goals
 Just continueing to explore python and build things to learn.
+
+I have a directory in [pythonLearning](https://github.com/Wblake95/pythonLearning) called Games where I test things and play with math a little.
 
 
 <!---
