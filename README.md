@@ -10,4 +10,4 @@
 
 [Microsoft Visual Basic for Applications (VBA)](https://github.com/Wblake95/Excel-VBA), great way to practice programming concepts in the real world if you don't have access to a real language at work.
 
-[blog](https://wblake95.github.io/), I was curious how Github Pages worked. I might continue to work on this in the future.
+[Blog](https://wblake95.github.io/), I was curious how Github Pages worked. I might continue to work on this in the future.
