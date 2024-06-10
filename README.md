@@ -1,7 +1,11 @@
 # Hi, i’m Wesley (Wes or Blake) Blake
-## Professional work: Human Resources.
-1. Learning Python for work and interest [Python](https://github.com/Wblake95/Python)
-2. Bash and Linux for effectiveness at my work and speed [BASH](https://github.com/Wblake95/Bash)
-3. C, just because I think it is cool. I want to spend more time on it. [C](https://github.com/Wblake95/C)
+## Profession: Human Resources Analyst.
+### Tools
+1. [Python](https://github.com/Wblake95/Python) for data science and statistics.
+2. [BASH](https://github.com/Wblake95/Bash) and [Linux](https://github.com/Wblake95/Config-Files) for simple automation and simplicity with my job.
+### Things I Just thought Were Cool.
+[C](https://github.com/Wblake95/C), I want to spend more time on it. 
+[Lua](https://github.com/Wblake95/Lua), Interesting language, simple to learn but I would imagine it to be difficult to master.
+[Microsoft Visual Basic for Applications (VBA)](https://github.com/Wblake95/Excel-VBA), great way to practice programming concepts in the real world if you don't have access to a real language at work.
 
 My website, you can see the things I learned/learning. [blog](https://wblake95.github.io/)
