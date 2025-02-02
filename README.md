@@ -1,7 +1,8 @@
-# Current Profession: Human Resources Analyst
-## Desired Profession: Human Resources Information System Administrator
-### Languages: Python, C, Bash, Powershell
-### Things I Just thought Were Cool
+Current Profession: Human Resources Analyst
+Desired Profession: Human Resources Information System Administrator
+Languages: Python, C, Bash, Powershell
+
+Things I Just thought Were Cool
 [Blog](https://wblake95.github.io/), I was curious how Github Pages worked. I might continue to work on this in the future.
 
 [![codewars.com](https://www.codewars.com/users/Wblake95/badges/large)](https://www.codewars.com/)
