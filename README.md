@@ -11,4 +11,5 @@
 **Training**
 
 [![codewars.com](https://www.codewars.com/users/Wblake95/badges/large)](https://www.codewars.com/)
+
 [![roadmap.sh](https://roadmap.sh/card/tall/64dda5c0095da82caf9ef761?variant=dark)](https://roadmap.sh)
