@@ -1,7 +1,5 @@
 **Current Profession:** Human Resources Analyst
 
-**Desired Profession:** Human Resources Information System Administrator
-
 **Languages:** Python, C, Bash, Powershell
 
 **Things I Just thought Were Cool**
