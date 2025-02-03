@@ -8,6 +8,6 @@
 
 **Training**
 
-[![codewars.com](https://www.codewars.com/users/Wblake95/badges/large)]([https://www.codewars.com/](https://www.codewars.com/users/Wblake95/stats))
+[![codewars.com](https://www.codewars.com/users/Wblake95/badges/large)](https://www.codewars.com/users/Wblake95/stats)
 
-[![roadmap.sh](https://roadmap.sh/card/tall/64dda5c0095da82caf9ef761?variant=dark)]([https://roadmap.sh](https://roadmap.sh/u/wesblake))
+[![roadmap.sh](https://roadmap.sh/card/tall/64dda5c0095da82caf9ef761?variant=dark)](https://roadmap.sh/u/wesblake)
